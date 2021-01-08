@@ -1,0 +1,4 @@
+1 afiq rosli 0.10
+3 dragon three 100.99
+6 cristiano ronaldo 1000000.99
+7 mat din 1000.00

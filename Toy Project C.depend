@@ -1,0 +1,832 @@
+# depslib dependency file v1.0
+1568368308 source:c:\users\afiq\documents\codeblocks\toy project c\ex2_21.c
+	<stdio.h>
+
+1568446832 source:c:\users\afiq\documents\codeblocks\toy project c\ex2_26.c
+	<stdio.h>
+
+1568470373 source:c:\users\afiq\documents\codeblocks\toy project c\ex2_31.c
+	<stdio.h>
+
+1568600590 source:c:\users\afiq\documents\codeblocks\toy project c\ex2_32.c
+	<stdio.h>
+
+1568601419 source:c:\users\afiq\documents\codeblocks\toy project c\ex2_33.c
+	<stdio.h>
+
+1568899263 source:c:\users\afiq\documents\codeblocks\toy project c\fig3_8.c
+	<stdio.h>
+
+1568900551 source:c:\users\afiq\documents\codeblocks\toy project c\fig3_10.c
+	<stdio.h>
+
+1569037618 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_17.c
+	<stdio.h>
+
+1569055338 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_18.c
+	<stdio.h>
+
+1569113749 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_21.c
+	<stdio.h>
+
+1569123220 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_27.c
+	<stdio.h>
+
+1569128310 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_33.c
+	<stdio.h>
+
+1569134643 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_34.c
+	<stdio.h>
+
+1569308584 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_36.c
+	<stdio.h>
+	<math.h>
+
+1569550116 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_39.c
+	<stdio.h>
+
+1569550603 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_40.c
+	<stdio.h>
+
+1569553536 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_44.c
+	<stdio.h>
+
+1569566051 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_45.c
+	<stdio.h>
+	<math.h>
+
+1569567251 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_46_a.c
+	<stdio.h>
+
+1569581528 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_46_b.c
+	<stdio.h>
+
+1569643173 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_47.c
+	<stdio.h>
+
+1569676965 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_49.c
+	<stdio.h>
+
+1569678819 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_49_decrypt.c
+	<stdio.h>
+
+1569727377 source:c:\users\afiq\documents\codeblocks\toy project c\fig4_7.c
+	<stdio.h>
+
+1570452960 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_10.c
+	<stdio.h>
+
+1570453494 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_11.c
+	<stdio.h>
+
+1570935604 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_15.c
+	<stdio.h>
+	<math.h>
+
+1570502586 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_17.c
+	<stdio.h>
+
+1570514442 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_19.c
+	<stdio.h>
+
+1571652093 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_26.c
+	<stdio.h>
+
+1570939548 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_22.c
+	<stdio.h>
+
+1571650308 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_25.c
+	<stdio.h>
+	<math.h>
+
+1571038296 source:c:\users\afiq\documents\codeblocks\toy project c\decimaltooctal.c
+	<stdio.h>
+	<math.h>
+
+1571649525 source:c:\users\afiq\documents\codeblocks\toy project c\decimalconverter.c
+	<stdio.h>
+	<math.h>
+
+1571668766 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_27.c
+	<stdio.h>
+	<math.h>
+
+1571751091 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_31.c
+	<stdio.h>
+
+1570501736 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_16.c
+	<stdio.h>
+
+1571752220 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_32.c
+	<stdio.h>
+
+1571811467 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_33.c
+	<stdio.h>
+
+1571815943 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_33_a.c
+	<stdio.h>
+
+1572095800 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_34.c
+	<stdio.h>
+
+1572096374 source:c:\users\afiq\documents\codeblocks\toy project c\ex4_35.c
+	<stdio.h>
+
+1572230194 source:c:\users\afiq\documents\codeblocks\toy project c\fig5_4.c
+	<stdio.h>
+
+1572230421 source:c:\users\afiq\documents\codeblocks\toy project c\fig5_7.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1572231103 source:c:\users\afiq\documents\codeblocks\toy project c\fig5_8.c
+	<stdio.h>
+	<stdlib.h>
+
+1572234636 source:c:\users\afiq\documents\codeblocks\toy project c\fig5_10.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1572242296 source:c:\users\afiq\documents\codeblocks\toy project c\fig5_12.c
+	<stdio.h>
+
+1572242800 source:c:\users\afiq\documents\codeblocks\toy project c\fig5_14.c
+	<stdio.h>
+
+1572331689 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_9.c
+	<stdio.h>
+	<math.h>
+
+1572407988 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_20.c
+	<stdio.h>
+
+1572415203 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_22.c
+	<stdio.h>
+
+1572437007 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_23.c
+	<stdio.h>
+	<math.h>
+
+1572490770 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_26.c
+	<stdio.h>
+
+1572516917 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_27.c
+	<stdio.h>
+
+1572530371 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_28.c
+	<stdio.h>
+
+1572531032 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_30.c
+	<stdio.h>
+
+1572532008 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_31.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1572569262 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_32.c
+	<stdio.h>
+	<stdlib.h>
+
+1572578709 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_33.c
+	<stdio.h>
+	<stdlib.h>
+
+1572589487 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_34.c
+	<stdio.h>
+
+1572753977 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_29.c
+	<stdio.h>
+
+1572779250 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_21.c
+	<stdio.h>
+
+1576419423 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_36.c
+	<stdio.h>
+
+1576593017 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_35.c
+	<stdio.h>
+
+1576679921 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_38.c
+	<stdio.h>
+
+1576680365 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_40.c
+	<stdio.h>
+
+1576764264 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_42.c
+	<stdio.h>
+
+1576764550 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_43.c
+	<stdio.h>
+
+1576900099 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_47.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1576934480 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_49.c
+	<stdio.h>
+
+1576941816 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_50.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1576986756 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_52.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1576989033 source:c:\users\afiq\documents\codeblocks\toy project c\ex5_53.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1577005727 source:c:\users\afiq\documents\codeblocks\toy project c\fig6_7.c
+	<stdio.h>
+
+1577010920 source:c:\users\afiq\documents\codeblocks\toy project c\fig6_9.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1577011669 source:c:\users\afiq\documents\codeblocks\toy project c\fig6_10.c
+	<stdio.h>
+
+1577021856 source:c:\users\afiq\documents\codeblocks\toy project c\fig6_13.c
+	<stdio.h>
+
+1577022145 source:c:\users\afiq\documents\codeblocks\toy project c\fig6_14.c
+	<stdio.h>
+
+1577111957 source:c:\users\afiq\documents\codeblocks\toy project c\fig6_16.c
+	<stdio.h>
+
+1577255980 source:c:\users\afiq\documents\codeblocks\toy project c\fig6_19.c
+	<stdio.h>
+
+1577256760 source:c:\users\afiq\documents\codeblocks\toy project c\fig6_21.c
+	<stdio.h>
+
+1577280786 source:c:\users\afiq\documents\codeblocks\toy project c\fig6_22.c
+	<stdio.h>
+
+1577542909 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_19.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1577629968 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_21.c
+	<stdio.h>
+
+1578124567 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_10.c
+	<stdio.h>
+
+1578130190 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_11.c
+	<stdio.h>
+
+1578144767 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_13.c
+	<stdio.h>
+
+1578198679 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_14.c
+	<stdio.h>
+
+1578200838 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_16.c
+	<stdio.h>
+
+1578204018 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_17.c
+	<stdio.h>
+
+1578217314 source:c:\users\afiq\documents\codeblocks\toy project c\fig7_6.c
+	<stdio.h>
+
+1579186298 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_15.c
+	<stdio.h>
+
+1578494596 source:c:\users\afiq\documents\codeblocks\toy project c\fig7_10.c
+	<stdio.h>
+	<ctype.h>
+
+1578580848 source:c:\users\afiq\documents\codeblocks\toy project c\fig7_16.c
+	<stdio.h>
+
+1578581122 source:c:\users\afiq\documents\codeblocks\toy project c\fig7_17.c
+	<stdio.h>
+
+1578731300 source:c:\users\afiq\documents\codeblocks\toy project c\fig7_21.c
+	<stdio.h>
+
+1578759635 source:c:\users\afiq\documents\codeblocks\toy project c\fig7_24.c
+	<stdio.h>
+	<stdlib.h>
+
+1578839803 source:c:\users\afiq\documents\codeblocks\toy project c\fig7_26.c
+	<stdio.h>
+
+1579322857 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_22.c
+	<stdio.h>
+
+1579406622 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_20.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1580398643 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_23.c
+	<stdio.h>
+
+1580567111 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_24.c
+	<stdio.h>
+
+1581175189 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_24_new.c
+	<stdio.h>
+
+1580657450 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_24_schema.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1581219448 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_24_d.c
+	<stdio.h>
+
+1581252942 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_25.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1583027081 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_31.c
+	<stdio.h>
+
+1582958639 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_28.c
+	<stdio.h>
+	<stdlib.h>
+
+1582959955 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_29_d.c
+	<stdio.h>
+
+1582986392 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_30.c
+	<stdio.h>
+
+1583029631 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_31_b.c
+	<stdio.h>
+
+1583038728 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_32.c
+	<stdio.h>
+
+1583044158 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_33.c
+	<stdio.h>
+
+1583155189 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_36.c
+	<stdio.h>
+
+1583556466 source:c:\users\afiq\documents\codeblocks\toy project c\fig7_24_redo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1583653158 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_34.c
+	<stdio.h>
+	<stdbool.h>
+
+1583681679 source:c:\users\afiq\documents\codeblocks\toy project c\ex6_34_redo.c
+	<stdio.h>
+	<stdbool.h>
+
+1585579333 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_12.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1584169624 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_19.c
+	<stdio.h>
+
+1584370874 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_22.c
+	<stdio.h>
+	<stdlib.h>
+
+1584457705 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_22_sendiri.c
+	<stdio.h>
+
+1584544649 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_23.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1584860482 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_23_schema.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1584873434 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_24.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1584890746 source:c:\users\afiq\documents\codeblocks\toy project c\fig7_25.c
+	<stdio.h>
+
+1584892888 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_26.c
+	<stdio.h>
+
+1584953607 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_30.c
+	<stdio.h>
+
+1585149113 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_32.c
+	<stdio.h>
+
+1585233437 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_33.c
+	<stdio.h>
+
+1584171617 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_20.c
+	<stdio.h>
+
+1585367428 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_16.c
+	<stdio.h>
+	<stdlib.h>
+
+1585842074 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_13.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1587725249 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_28.c
+	<stdio.h>
+
+1587888052 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_28_sendiri.c
+	<stdio.h>
+
+1588087102 source:c:\users\afiq\documents\codeblocks\toy project c\ex7_29.c
+	<stdio.h>
+	<math.h>
+
+1588084788 source:c:\users\afiq\documents\codeblocks\toy project c\trial.c
+	<stdio.h>
+
+1588201466 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_2.c
+	<stdio.h>
+	<ctype.h>
+
+1588203711 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_3.c
+	<stdio.h>
+	<ctype.h>
+
+1589988157 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_5.c
+	<stdio.h>
+	<stdlib.h>
+
+1588323365 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_13.c
+	<stdio.h>
+
+1588323874 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_14.c
+	<stdio.h>
+
+1588335566 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_18.c
+	<stdio.h>
+	<string.h>
+
+1588339894 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_21.c
+	<stdio.h>
+	<string.h>
+
+1588340424 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_23.c
+	<stdio.h>
+	<string.h>
+
+1588340796 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_24.c
+	<stdio.h>
+	<string.h>
+
+1588341146 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_25.c
+	<stdio.h>
+	<string.h>
+
+1588375009 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_29.c
+	<stdio.h>
+	<string.h>
+
+1588376755 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_31.c
+	<stdio.h>
+	<string.h>
+
+1588377821 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_34.c
+	<stdio.h>
+	<string.h>
+
+1588402714 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_1.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1588601009 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_5.c
+	<stdio.h>
+	<ctype.h>
+
+1588605456 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_6.c
+	<stdio.h>
+	<ctype.h>
+
+1588609244 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_7.c
+	<stdio.h>
+	<stdlib.h>
+
+1588688926 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_9.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588776399 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_11.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1588861993 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_12.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1588867419 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_13.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1588948180 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_14.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1588981957 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_15.c
+	<stdio.h>
+	<string.h>
+
+1588983816 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_16.c
+	<stdio.h>
+	<string.h>
+
+1588985709 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_18.c
+	<stdio.h>
+	<string.h>
+
+1589087475 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_19.c
+	<stdio.h>
+	<string.h>
+
+1589091362 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_20.c
+	<stdio.h>
+	<string.h>
+
+1589119004 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_21.c
+	<stdio.h>
+	<string.h>
+
+1589378994 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_4.c
+	<stdio.h>
+	<ctype.h>
+
+1589384536 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_26.c
+	<stdio.h>
+
+1589707248 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_27.c
+	<stdio.h>
+
+1590854045 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_27_part2.c
+	<stdio.h>
+	<ctype.h>
+
+1590906009 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_28_version_array_subscripting.c
+	<stdio.h>
+	<string.h>
+
+1590933539 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_28_version_pointer.c
+	<stdio.h>
+
+1591538732 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_29.c
+	<stdio.h>
+	<unistd.h>
+
+1591623837 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_31.c
+	<stdio.h>
+
+1591606371 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_27.c
+	<stdio.h>
+	<string.h>
+
+1591881924 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_32.c
+	<stdio.h>
+	<string.h>
+
+1592662705 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_34.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1592659250 source:c:\users\afiq\documents\codeblocks\toy project c\test.c
+	<stdio.h>
+	<string.h>
+
+1595342546 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_35.c
+	<stdio.h>
+	<string.h>
+
+1588377049 source:c:\users\afiq\documents\codeblocks\toy project c\fig8_32.c
+	<stdio.h>
+	<string.h>
+
+1594544789 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_37.c
+	<stdio.h>
+
+1594567265 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_38.c
+	<stdio.h>
+
+1594832012 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_40.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1594904970 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_41.c
+	<stdio.h>
+
+1594908274 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_44.c
+	<stdio.h>
+
+1595133287 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_45.c
+	<stdio.h>
+	<string.h>
+
+1595052398 source:c:\users\afiq\documents\codeblocks\toy project c\tobedeleted.c
+	<stdio.h>
+	<string.h>
+
+1595079313 source:c:\users\afiq\documents\codeblocks\toy project c\tobedeleted_2.c
+	<stdio.h>
+	<string.h>
+
+1595138559 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_46.c
+	<stdio.h>
+	<string.h>
+
+1595249916 source:c:\users\afiq\documents\codeblocks\toy project c\ex8_43.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1595680334 source:c:\users\afiq\documents\codeblocks\toy project c\ex9_4.c
+	<stdio.h>
+
+1595426817 source:c:\users\afiq\documents\codeblocks\toy project c\fig9_5.c
+	<stdio.h>
+
+1595427351 source:c:\users\afiq\documents\codeblocks\toy project c\fig9_7.c
+	<stdio.h>
+
+1595511546 source:c:\users\afiq\documents\codeblocks\toy project c\fig9_18.c
+	<stdio.h>
+
+1595657271 source:c:\users\afiq\documents\codeblocks\toy project c\todelete.c
+	<stdio.h>
+
+1595682442 source:c:\users\afiq\documents\codeblocks\toy project c\ex9_5.c
+	<stdio.h>
+
+1595682765 source:c:\users\afiq\documents\codeblocks\toy project c\ex9_6.c
+	<stdio.h>
+
+1595690870 source:c:\users\afiq\documents\codeblocks\toy project c\ex9_8.c
+	<stdio.h>
+	<stdlib.h>
+
+1595691139 source:c:\users\afiq\documents\codeblocks\toy project c\ex9_9.c
+	<stdio.h>
+
+1595729776 source:c:\users\afiq\documents\codeblocks\toy project c\ex9_14.c
+	<stdio.h>
+
+1595729872 source:c:\users\afiq\documents\codeblocks\toy project c\ex9_15.c
+	<stdio.h>
+
+1595731437 source:c:\users\afiq\documents\codeblocks\toy project c\ex9_17.c
+	<stdio.h>
+
+1595731584 source:c:\users\afiq\documents\codeblocks\toy project c\ex9_18.c
+	<stdio.h>
+
+1597937010 source:c:\users\afiq\documents\codeblocks\toy project c\ex10_7.c
+	<stdio.h>
+
+1598019447 source:c:\users\afiq\documents\codeblocks\toy project c\ex10_8.c
+	<stdio.h>
+
+1598075361 source:c:\users\afiq\documents\codeblocks\toy project c\ex10_10.c
+	<stdio.h>
+	<limits.h>
+
+1598076972 source:c:\users\afiq\documents\codeblocks\toy project c\ex10_12.c
+	<stdio.h>
+	<limits.h>
+
+1598110322 source:c:\users\afiq\documents\codeblocks\toy project c\ex10_13.c
+	<stdio.h>
+	<limits.h>
+
+1598157977 source:c:\users\afiq\documents\codeblocks\toy project c\ex10_17.c
+	<stdio.h>
+	<limits.h>
+
+1598845291 source:c:\users\afiq\documents\codeblocks\toy project c\ex10.7.c
+	<stdio.h>
+	<stdlib.h>
+
+1598881096 source:c:\users\afiq\documents\codeblocks\toy project c\ex10_21.c
+	<stdio.h>
+	<time.h>
+
+1569655650 source:c:\users\afiq\documents\codeblocks\toy project c\ex3_48.c
+	<stdio.h>
+
+1599370624 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_7.c
+	<stdio.h>
+
+1599370947 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_3.c
+	<stdio.h>
+
+1599374985 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_8.c
+	<stdio.h>
+
+1599658727 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_11.c
+	<stdio.h>
+
+1599749621 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_15.c
+	<stdio.h>
+
+1599660742 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_12.c
+	<stdio.h>
+
+1599975592 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_3_redo.c
+	<stdio.h>
+
+1599979062 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_7_redo.c
+	<stdio.h>
+
+1600000795 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_11_redo.c
+	<stdio.h>
+
+1600007514 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_12_redo.c
+	<stdio.h>
+
+1600264532 source:c:\users\afiq\documents\codeblocks\toy project c\fig11_16_redo.c
+	<stdio.h>
+
+1601128302 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_7.c
+	<stdio.h>
+	<stdlib.h>
+
+1601391939 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_8_redo.c
+	<stdio.h>
+	<stdlib.h>
+
+1601391003 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_7_redo.c
+	<stdio.h>
+	<stdlib.h>
+
+1601303841 source:c:\users\afiq\documents\codeblocks\toy project c\delete_this.c
+	<stdio.h>
+	<stdlib.h>
+
+1601475578 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_10.c
+	<stdio.h>
+	<stdlib.h>
+
+1601802622 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_11.c
+	<stdio.h>
+
+1601815408 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_11_part2.c
+	<stdio.h>
+	<string.h>
+
+1603004067 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_12.c
+	<stdio.h>
+
+1603025789 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_13.c
+	<stdio.h>
+
+1603115179 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_16.c
+	<stdio.h>
+
+1603203142 source:c:\users\afiq\documents\codeblocks\toy project c\ex11_15.c
+	<stdio.h>
+
+1603514523 source:c:\users\afiq\documents\codeblocks\toy project c\fig12_3.c
+	<stdio.h>
+	<stdlib.h>
+
+1603588628 source:c:\users\afiq\documents\codeblocks\toy project c\fig12_3_redo.c
+	<stdio.h>
+	<stdlib.h>
+

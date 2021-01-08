@@ -1,0 +1,11 @@
+Data type           Size
+char                1
+short               2
+unsigned short      2
+int                 4
+unsigned            4
+long                4
+unsigned long       4
+float               4
+double              8
+long double         16
